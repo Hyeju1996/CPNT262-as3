@@ -10,11 +10,12 @@ const error = document.querySelector('#error')
 const signIn = () => {
     if (password == passwordInput.value && userName == userInput.value) {
         error.innerText = 'Good job!!'
-        window.location.href = '404.html'
+        window.location.href = 'main.html'
 
         return
     }
-    error.innerText = '404 ERROR!!!'
+    error.innerText = '404.Error!!!'
+    window.location = "404.html"
 
 }
 signInBtn.addEventListener("click", () => {
