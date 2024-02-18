@@ -4,8 +4,13 @@
 
 ## arttibute: 
 
-This concept is when you **Sign In** with wrong password then this button wont be in to next page.
-If the password crrectly type you will be in to next page. 
+This concept is about when you click Sign in page with out password, you will go to 404 Error page. 
+When you type right user and password then you will go to main page with good way. 
+
+## problem. 
+
+1. You will not enter the sign in or get 404 Error page. 
+
 
 
 
