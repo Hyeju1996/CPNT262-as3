@@ -15,6 +15,7 @@ When you type right user and password then you will go to main page with good wa
  when you type right user and password then will enter main page. 
 
 
-
+The username is: "Jhoney marvel"
+    password: "bob"
 
 
