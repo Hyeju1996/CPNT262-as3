@@ -14,7 +14,7 @@ const signIn = () => {
 
         return
     }
-    error.innerText = '404.Error!!!'
+    error.innerText = '404Error!!!'
     window.location = "404.html"
 
 }
